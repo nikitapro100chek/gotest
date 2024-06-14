@@ -3,7 +3,10 @@ package main
 import (
 	"os"
 
-	todo 
+	todo "github.com/nikitapro100chek/jsonserver"
+	"github.com/nikitapro100chek/jsonserver/pkg/handler"
+	"github.com/nikitapro100chek/jsonserver/pkg/repository"
+	"github.com/nikitapro100chek/jsonserver/pkg/service"
 
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
