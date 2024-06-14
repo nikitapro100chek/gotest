@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	todo "github.com/nikitapro100chek/jsonserver"
+	todo "github.com/nikitapro100chek/gotest"
 )
 
 func (h *Handler) createList(c *gin.Context) {

@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	todo "github.com/nikitapro100chek/jsonserver"
+	todo "github.com/nikitapro100chek/gotest"
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/lib/pq"

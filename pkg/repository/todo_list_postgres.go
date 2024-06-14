@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/jmoiron/sqlx"
-	todo "github.com/nikitapro100chek/jsonserver"
+	todo "github.com/nikitapro100chek/gotest"
 	"github.com/sirupsen/logrus"
 )
 

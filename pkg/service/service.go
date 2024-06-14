@@ -1,8 +1,8 @@
 package service
 
 import (
-	todo "github.com/nikitapro100chek/jsonserver"
-	"github.com/nikitapro100chek/jsonserver/pkg/repository"
+	todo "github.com/nikitapro100chek/gotest"
+	"github.com/nikitapro100chek/gotest/pkg/repository"
 )
 
 type Authorization interface {
